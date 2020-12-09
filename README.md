@@ -18,5 +18,5 @@ Commandes | Permission | Description
   /speed <1-10> (player) | admin.flyspeed| Mettre la vitesse de vol pour un joueur
 
 
-<> == Obligatoire dans la commande\n
-() == Falcultatif dans la commande
+> <> == Obligatoire dans la commande
+> () == Falcultatif dans la commande
