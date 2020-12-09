@@ -18,6 +18,7 @@ Commandes | Permission | Description
   /gmsp (player) | admin.gamemode | Mode spectateur
   /clear (player) | admin.clear | Nettoyer l'inventaire d'un joueur
   /speed <1-10> (player) | admin.flyspeed| Mettre la vitesse de vol pour un joueur
+  /lag | / | Voir les informations du serveur
 
 
 > <> == Obligatoire dans la commande </br>
