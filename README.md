@@ -3,6 +3,8 @@
 > Regroupe toutes les commandes essentielles pour un serveur Minecraft
 
 
+Ceci est mon premier plugin, si vous apercevez un ou plusieurs bugs, veuillez me le dire en message privé. (Merci)
+
 
 <img src="http://api.nathancreations.fr/public/extended.png" />
 
